@@ -5,6 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class PsaPracticeApplicationTests {
+	int x=10;
 
 	@Test
 	void contextLoads() {
